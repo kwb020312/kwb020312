@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0997e5?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-hotpink?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo-purple?style=flat-square&logo=apollographql&logoColor=white"/>
 
 
 [![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312)](https://github.com/anuraghazra/github-readme-stats)
