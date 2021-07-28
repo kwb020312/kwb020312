@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-hotpink?style=flat-square&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo-purple?style=flat-square&logo=apollographql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-red?style=flat-square&logo=webgl&logoColor=white"/>
 
 
 [![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312)](https://github.com/anuraghazra/github-readme-stats)
