@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Chobby's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20FrontEnd%20Developer!!&descAlignY=80)
 
-
+<center>
 ### Hi there 👋
 
 🔭 I’m currently working on: 위프코 ( Management 3D Point Cloud ) 
@@ -55,3 +55,4 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwb020312">
 
  
+</center>
