@@ -51,4 +51,5 @@
 <img src="https://img.shields.io/badge/FireBase-ffca29?style=flat-square&logo=firebase&logoColor=white"/>
 
 
-![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312)
+![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
+
