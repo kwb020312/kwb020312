@@ -49,6 +49,8 @@
 <img src="https://img.shields.io/badge/WebGL-red?style=flat-square&logo=webgl&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61dafb?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/FireBase-ffca29?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-green?style=flat-square&logo=webrtc&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white"/>
 
 
 ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
