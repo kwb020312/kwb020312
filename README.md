@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/WebRTC-green?style=flat-square&logo=webrtc&logoColor=white"/>
  <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis&logoColor=red"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
 
 ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
