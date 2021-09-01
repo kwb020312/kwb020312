@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/FireBase-ffca29?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebRTC-green?style=flat-square&logo=webrtc&logoColor=white"/>
  <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis&logoColor=red"/>
 
 
 ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
