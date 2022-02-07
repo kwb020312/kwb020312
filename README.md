@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Chobby's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20FrontEnd%20Developer!!&descAlignY=80)
 
 <center>
+ 
+ <a href="https://velog.io/@kwb020312">블로그 운영하고 있어요 한번씩만 보러와주세요 ㅜㅠㅜㅠㅜㅠㅜ</a> 
+ 
+ 
 ### Hi there 👋
 
 🔭 I’m currently working on: 위프코 ( Management 3D Point Cloud ) 
