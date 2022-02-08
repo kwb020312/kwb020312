@@ -2,7 +2,11 @@
 
 <center>
  
- <a href="https://velog.io/@kwb020312">블로그 운영하고 있어요 한번씩만 보러와주세요 ㅜㅠㅜㅠㅜㅠㅜ</a> 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwb020312&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=kwb020312)
+ 
+ ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
+ 
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwb020312">
  
  
 ### Hi there 👋
@@ -59,10 +63,5 @@
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gulp-hotpink?style=flat-square&logo=gulp&logoColor=white"/>
-
-![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
- 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwb020312">
-
  
 </center>
