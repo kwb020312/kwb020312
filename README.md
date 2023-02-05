@@ -11,7 +11,7 @@
  
 ### Hi there 👋
 
-🔭 I’m currently working on: 위프코 ( Management 3D Point Cloud ) 
+🔭 I’m currently working on: 비타소프트
 
 🌱 I’m currently learning: 많은 리액트 프로젝트 !
 
