@@ -26,8 +26,6 @@
 😄 Pronouns: JS & React
 
 ⚡ Fun fact: I know you want to hire me to read this.
-
-<!---
  
 스택들
  
@@ -68,6 +66,9 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gulp-hotpink?style=flat-square&logo=gulp&logoColor=white"/>
 
- -->
-
 </center>
+
+DongSeoul University(DU) 
+2382013 
+Department of AI Convergence Software 
+KIM WOO BIN
