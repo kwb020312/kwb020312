@@ -68,7 +68,7 @@
 
 </center>
 
-DongSeoul University(DU) 
+Dong Seoul University
 2382013 
 Department of AI Convergence Software 
 KIM WOO BIN
