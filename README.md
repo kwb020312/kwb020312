@@ -67,8 +67,3 @@
 <img src="https://img.shields.io/badge/Gulp-hotpink?style=flat-square&logo=gulp&logoColor=white"/>
 
 </center>
-  
-Dong Seoul University
-2382013 
-Department of AI Convergence Software 
-KIM WOO BIN
