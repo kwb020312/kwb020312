@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Chobby's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20FrontEnd%20Developer!!&descAlignY=80)
 
-<center>
+<center>  
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwb020312&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=kwb020312)
  
