@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api? type=slice&color=auto&height=300&section=header&text=Chobby's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20FrontEnd%20Developer!!&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Chobby's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20FrontEnd%20Developer!!&descAlignY=80)
   
 <center>  
  
