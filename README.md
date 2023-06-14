@@ -9,7 +9,7 @@
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwb020312">
  
  
-### Hi there 👋
+<!-- ### Hi there 👋
 
 🔭 I’m currently working on: 비타소프트
 
@@ -65,5 +65,5 @@
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gulp-hotpink?style=flat-square&logo=gulp&logoColor=white"/>
-
+ -->
 </center>
