@@ -4,7 +4,7 @@
  
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwb020312&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=kwb020312) -->
  
- ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko)
+<!-- ![Chobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwb020312&show_icons=true&theme=merko) -->
  
 <!-- <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwb020312"> -->
  
